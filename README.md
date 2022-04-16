@@ -1,2 +1,2 @@
-# Coolsite
+# Django site
 Study Django framework
